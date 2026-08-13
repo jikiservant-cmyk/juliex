@@ -1,0 +1,6 @@
+{
+  "name": "Juliex Property Consultants Ltd",
+  "description": "Registered real estate company in Uganda managed by Ssebyoto Julius offering land sales, housing, construction, and property management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

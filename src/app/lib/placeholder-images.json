@@ -1,0 +1,59 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-church",
+      "description": "Juliex Property Consultants - Wakiso Land & Housing",
+      "imageUrl": "/images/img1.webp",
+      "imageHint": "uganda real estate land plot"
+    },
+    {
+      "id": "live-stream",
+      "description": "Prime Residential Land Plot with ready title",
+      "imageUrl": "/images/img2.jpg",
+      "imageHint": "green land landscape"
+    },
+    {
+      "id": "worship-band",
+      "description": "Modern Villa Construction Project",
+      "imageUrl": "/images/img3.webp",
+      "imageHint": "modern luxury house"
+    },
+    {
+      "id": "community-gathering",
+      "description": "Land Surveying & Boundary Opening",
+      "imageUrl": "/images/img4.jpg",
+      "imageHint": "construction land survey"
+    },
+    {
+      "id": "scripture-study",
+      "description": "Architectural Blueprints & Site Plans",
+      "imageUrl": "/images/img5.jpg",
+      "imageHint": "architectural plans"
+    },
+    {
+      "id": "pastor-florence",
+      "description": "Ssebyoto Julius - Managing Director",
+      "imageUrl": "/images/img6.jpg",
+      "imageHint": "real estate manager"
+    },
+    {
+      "id": "director-rose",
+      "description": "Property Management & Client Relations",
+      "imageUrl": "/images/img7.jpg",
+      "imageHint": "real estate consultant"
+    },
+    {
+      "id": "creative-geoffrey",
+      "description": "Lead Land Surveyor & Field Engineer",
+      "imageUrl": "/images/img8.jpg",
+      "imageHint": "land surveyor"
+    },
+    {
+      "id": "about-history",
+      "description": "Juliex Property Head Office - Nansana Jenina",
+      "imageUrl": "/images/img9.jpg",
+      "imageHint": "juliex property office"
+    }
+  ]
+}
